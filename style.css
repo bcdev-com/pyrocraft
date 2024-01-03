@@ -4,7 +4,7 @@
 }
 body { 
     padding: 0; margin: 0; 
-    background: black; color: white; 
+    background: rebeccapurple; color: #ECFFD4; 
 }
 h1 { 
     font-size: 2rem; margin: 0; padding: 1rem;
@@ -13,7 +13,7 @@ p {
     padding-left: 1rem; 
 }
 a, a:visited, a:active { 
-    color: rebeccapurple; text-decoration: none; font-weight: bold; 
+    color: #6D9932; text-decoration: none; font-weight: bold; 
 }
 .gallery { 
     display: grid; 
