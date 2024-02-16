@@ -11,4 +11,5 @@ const lightbox = new PhotoSwipeLightbox({
   preload: [2, 3],
   pswpModule: PhotoSwipe
 });
+
 lightbox.init();
